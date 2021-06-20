@@ -51,7 +51,7 @@ Javascript - 55 %
   
   
 
-📈 O meu Github
+📈 My Github
 
   
 
