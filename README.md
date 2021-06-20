@@ -16,7 +16,7 @@ I´m currently 22 years old, and i´m trying to become a fullstack developer.
   
 
 
-📊 **Linguagens que mais utilizo**
+📊 **Most used languages**
 
 <!--START_SECTION:waka-->
 
