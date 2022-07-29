@@ -26,7 +26,7 @@ HTML - 85 %
 
 CSS - 85 %
 
-Javascript - 55 %
+Javascript - 65 %
 
 
 ```
